@@ -1,5 +1,4 @@
 ## Hey there! Welcome to my Github. 
-#### Here are a couple of points to learn about me and my work:
 <br>
 <b>🙋‍♂️ About me:</b>
 
