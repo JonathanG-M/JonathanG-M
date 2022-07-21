@@ -1,5 +1,4 @@
 ## Hey there! Welcome to my Github. 
-<br>
 <b>🙋‍♂️ About me:</b>
 
 - 📈 3+ years analytics experience in supply chain ⛓️ & finance 💰
