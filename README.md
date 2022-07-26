@@ -7,7 +7,7 @@
 - 🌱 Currently learning about forecasting 🔮
 - 🤔 Wish I knew more about agritech 🌱
 - 🔗 My [LinkedIn](https://www.linkedin.com/in/jonathan-gallant-mills-b24112162/)
-- 📧 My [email](jonathan.gallant.mills@gmail.com)
+- 📧 My [email](#jonathan.gallant.mills@gmail.com)
 
 
 
